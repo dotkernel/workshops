@@ -1,7 +1,7 @@
 # DotKernel 3 Workshops
 ---
 
-## [See workshops list](workshops-list.md)
+## [See workshop list](workshop-list.md)
 
 ## What is a workshop?
 
