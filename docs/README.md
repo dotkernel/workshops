@@ -1,6 +1,5 @@
-# DotKernel 3 workshops
-
 # DotKernel 3 Workshops
+---
 
 ## [See workshops list](workshops-list.md)
 
