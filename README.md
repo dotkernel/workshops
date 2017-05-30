@@ -2,4 +2,4 @@
 
 DotKernel 3 Official Workshop List Repository
 
-# [Documentation](docs)
+# [DotKernel 3 Workshop](docs)
