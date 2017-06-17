@@ -18,6 +18,7 @@ Eg.: `dotkernel/ws-dependency-injection`
     * Expected result
     * Planning
 * Steps (as many as required, with input and expected output examples)
+* Tests (PHP files that check if the code was executed as expected)
  
 
 ## Did I do the right thing?
